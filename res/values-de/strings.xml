@@ -31,8 +31,8 @@
 
     <string name="glyph_settings_brightness">Helligkeit</string>
 
-    <string name="glyph_settings_charging_title">Ladeanzeige</string>
-    <string name="glyph_settings_charging_level_title">Akkustand</string>
+    <string name="glyph_settings_charging_title">Laden</string>
+    <string name="glyph_settings_charging_level_title">Ladeanzeige</string>
     <string name="glyph_settings_charging_level_summary">Anzeige des Akkustands beim Einstecken</string>
 
     <string name="glyph_settings_call_title">Anruf</string>
