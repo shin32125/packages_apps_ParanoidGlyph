@@ -26,6 +26,6 @@ ParanoidGlyph
 
 ## Device picture
 
-![Nothing Phone (1)](https://abload.de/img/68747470733a2f2f6431d7f32.jpeg)
+![Nothing Phone (1)](https://camo.githubusercontent.com/7fe828c1f783ff303399ec6e5e6af0822cffbf5c46d373caf9bdea07e2051b63/68747470733a2f2f692e696d6775722e636f6d2f576a7a6e4531462e706e67)
 
 
